@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /home/almaz/Документы/git_history_manipulator/.
+	fetch = +refs/*:refs/*
+	mirror = true
